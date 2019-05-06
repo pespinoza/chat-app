@@ -1,0 +1,33 @@
+	body {
+	    background-color: white;
+	    color: #303030;
+	    font-family: 'Helvetica Neue', Arial, sans-serif;
+	    font-size: 15px;
+	    margin: 20px;
+	}
+	
+	main {
+	    background-color: #f0f0f0;
+	    border-radius: 6px;
+	    box-shadow: 3px 3px 12px #c8c8c8;
+	    margin: 20px auto;
+	    max-width: 470px;
+	    padding: 20px;
+	}
+	
+	ul.list-inline > li {
+	    background-color: #66c4cade;
+	    border-radius: 5px;
+	    padding: 5px;
+	    border-color: red;
+	}
+	
+	ul.list-inline > li:nth-child(2n+2) {
+	    background-color: #f0f0f0;
+	}
+	
+	form {
+	    background-color: #2f8195;
+	    padding: 5px;
+	    border-radius: 5px;
+	}
